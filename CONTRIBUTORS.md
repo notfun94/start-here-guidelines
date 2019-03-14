@@ -3146,19 +3146,4 @@
 
 -[@Mahmie](https://github.com/johan-uribe21)
 
-  {
-    id: Azfar Bilal,
-    name: " Azfar Bilal Saleem",
-    img: "[YOUR_IMG_URL]",
-    links: {
-      website: "[YOUR_WEBSITE_URL]",
-      linkedin: "[YOUR_LINKEDIN_URL]",
-      github: "[YOUR_GITHUB_URL]"
-    },
-    jobTitle: "[YOUR_TITLE]",
-    location: {
-      city: "[YOUR_CITY]",
-      state: "[YOUR_STATE_OR_PROVINCE]",
-      country: "[YOUR_COUNTRY]"
-    }
-  },
+-[@notfun94](https://github.com/notfun94)
